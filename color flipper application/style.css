@@ -1,0 +1,25 @@
+.mainSection {
+    padding: 2rem;
+}
+.topSection {
+}
+
+.bottomSection {
+}
+
+.bottomSection ul li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.bottomSection ul li a {
+    color: white;
+    font-family: Helvetica;
+    font-size: x-large;
+}
+.bottomSection:hover {
+    background-color: #5D5D5D;
+}
+.btn {
+    font-size: xx-large;
+}
