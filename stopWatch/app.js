@@ -27,6 +27,11 @@ function timer(){
         secHeading.innerHTML = sec
         msec = 0
     }
+    else if (sec >= 10){
+        min++
+        sec = 0;
+        minHeading.innerHTML = min
+    }
 }
 
 interval = setInterval(timer, 10)
