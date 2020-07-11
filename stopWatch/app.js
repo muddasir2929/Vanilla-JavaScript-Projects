@@ -11,6 +11,15 @@
 //     console.log("running ...")
 // }
 // setTimeout(timeOut, 3000)
+
+
+
+// var now = Date.now();
+// var later = Date.now();
+// var timePassed = later - now;
+// console.log(timePassed);
+
+
 var min = 0;
 var sec = 0;
 var msec = 0;
